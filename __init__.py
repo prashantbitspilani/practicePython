@@ -18,5 +18,5 @@ def pypart(n):
     # Driver Code
 
 
-n = 5
+n = 4
 pypart(n) 
